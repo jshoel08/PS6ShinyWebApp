@@ -1,5 +1,7 @@
 # PS6ShinyWebApp
 
+My Shinyapp Link: https://jshoel08.shinyapps.io/PS6JaidenS/
+
 This Shiny App reads in one of the Data Set's from me and my groups project that we are working on.
 
 The data is about the relationship between Students and Alcohol consumption. Taking in a plethora of variables from their age, parents jobs/backgrounds, living conditions, students grades, weekday and weekend alcohol consumption and much more. However, my pages and my variables zoom more towards the relationship between alcohol consumption and parents’ cohabitation status.
