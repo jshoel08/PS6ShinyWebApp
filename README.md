@@ -2,9 +2,11 @@
 
 My Shinyapp Link: https://jshoel08.shinyapps.io/PS6JaidenS/
 
-This Shiny App reads in one of the Data Set's from me and my groups project that we are working on.
+This Shiny App reads in one of the Data Sets from me and my groups project that we are working on.
 
-The data is about the relationship between Students and Alcohol consumption. Taking in a plethora of variables from their age, parents jobs/backgrounds, living conditions, students grades, weekday and weekend alcohol consumption and much more. However, my pages and my variables zoom more towards the relationship between alcohol consumption and parents’ cohabitation status.
+The data is about the relationship between Students and Alcohol consumption. Taking in a plethora of variables from their age, parents jobs/backgrounds, living conditions, students grades, weekday and weekend alcohol consumption and much more. However, my pages and variables zoom more towards the relationship between alcohol consumption and parents’ cohabitation status.
+
+I have an overview page, a scatter plot page, and a table page with brief descriptions on each page for the viewer to understand what's happening.
 
 With this, here is the short descriptions of the variables (these descriptions were taken/paraphrased from https://www.kaggle.com/datasets/uciml/student-alcohol-consumption):
 
